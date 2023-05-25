@@ -1,0 +1,2 @@
+Folder image ควรอยู่นอก lib ให้สร้าง assets/images
+ในไฟล์ pubspace.yaml ให้แก้ไข assets path
